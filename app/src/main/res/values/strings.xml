@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">TwitterTimeLineSample</string>
+    <string name="title_activity_time_line">TimeLine</string>
+    <string name="consumer_key" translatable="true">MU8Wt4cUQ4i6tSgIij83WLFfG</string>
+    <string name="consumer_secret">qkE3SQIadPFw8aoJ6FOaTgGJbdP6XmFqZAnMfyFb3A0aTiomy1</string>
+</resources>
